@@ -23,7 +23,7 @@
   
 1, Star the repo up there then click Here To  [`FORK`](## STEPS TO DEPLOY YOUR BOTk)
 
-2,   ***[`TAP HERE TO SCAN PAIRING CODE`](https://pairing-3w13.onrender.com/pair)***
+2,   ***[`TAP HERE TO SCAN PAIRING CODE`](httdps://pairing-3w13.yg.onrender.com/pair)***
 # Instalasi
 
 ## Deployment Methods
