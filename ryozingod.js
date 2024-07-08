@@ -299,7 +299,7 @@ const ryovoice = {
     }
 }
 
-const fpoll = {
+const fpoll = {lol
     key: {
         participant: `0@s.whatsapp.net`,
         ...(m.chat ? {
@@ -354,7 +354,7 @@ const ryocakep = {
         newsletterJid: `120363224727390375@newsletter`,
         newsletterName: `🔥`,
         jpegThumbnail: fakejpg,
-        caption: ` 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕾𝖕𝖎𝖉𝖊𝖗 ? \n ❖ ${m.body || m.mtype} `,
+        caption: ` 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑 ? \n ❖ ${m.body || m.mtype} `,
         inviteExpiration: Date.now() + 1814400000
       }
     }
@@ -428,7 +428,7 @@ const qtext = {
     message: {
         "extendedTextMessage": {
             "text": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-            "title": `𝕮𝖆𝖑𝖑 𝕸𝖊 𝕾𝖕𝖎𝖉𝖊𝖗`,
+            "title": `𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑`,
             'jpegThumbnail': fakejpg,
         }
     }
@@ -450,7 +450,7 @@ const qtoko = {
                     "jpegThumbnail": fakejpg,
                 },
                 "title": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-                "description": `⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕾𝖕𝖎𝖉𝖊𝖗々`,
+                "description": `⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑々`,
                 "currencyCode": "USD",
                 "priceAmount1000": "1000000000000000000",
                 "retailerId": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
@@ -593,7 +593,7 @@ const evalreply = async (teks) => {
       externalAdReply: {
         showAdAttribution: false,
         renderLargerThumbnail: false,
-        title: `⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕾𝖕𝖎𝖉𝖊𝖗々\n☠️ 🧞‍♂️ : ${m.pushName}`,
+        title: `⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑々\n☠️ 🧞‍♂️ : ${m.pushName}`,
         body: `🕑${ucapanWaktu}`,
         previewType: "PHOTO",
         thumbnail: yaechan,
@@ -618,7 +618,7 @@ const xgreply = async (teks) => {
       externalAdReply: {
         showAdAttribution: false,
         renderLargerThumbnail: false,
-        title: `⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕾𝖕𝖎𝖉𝖊𝖗々\n👤 名前 : ${m.pushName}`,
+        title: `⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑々\n👤 名前 : ${m.pushName}`,
         body: `🕑${ucapanWaktu}`,
         previewType: "PHOTO",
         thumbnail: imagereply,
@@ -1070,7 +1070,7 @@ const fcbug = async (target, jumlah, txt) => {
     await sleep(300);
     var etc = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
       'listMessage': {
-        'title': `⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕾𝖕𝖎𝖉𝖊𝖗々${mdelay}`,
+        'title': `⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑々${mdelay}`,
         'footerText': `${txt}`,
         'description': `${txt}.${mdelay}`,
         'buttonText': null,
@@ -1308,7 +1308,7 @@ let itsmenu = `
  ⭔ タグ   : @${m.sender.split('@')[0]}
  ⭔ 時間   : ${ucapanWaktu}
  ⭔ Prefix  : ${prefix ? prefix : '✳ 𝐌𝐮𝐥𝐭𝐢 ༢'}
- ⭔ Library   : 𝐖𝐬𝐁𝐚𝐢𝐥𝐞𝐲𝐬-𝐌𝐃.
+ ⭔ Library   : 𝕶𝖆𝖎𝖘𝖊 𝖔𝖋 𝕰𝖑𝖚𝖒𝖎.
  ⭔ Status     : ${ryozingod.public ? '✱ 𝐏𝐮𝐛𝐥𝐢𝐜 ༣' : '✲ 𝐒𝐞𝐥𝐟 ༣'}
  ⭔ Resp Speed : ${latensi.toFixed(4)}
 
@@ -1845,8 +1845,8 @@ let itsmenu = `
 
  ╭ ──▸ \`Thanks To\`
  │
- │➢ 𝕾𝖕𝖎𝖉𝖊𝖗
- │➢ ░▒▓█ <  𝞛𝞓𝘿𝘿𝙇𝞘𝞠Z>█▓▒░│⃟➤⃨
+ │➢ 𝕹𝖍𝖊𝖑𝖛𝖔ᵈ𝕩
+ │➢ ░▒▓█ <  𝕶𝖆𝖎𝖘𝖊 𝖔𝖋 𝕰𝖑𝖚𝖒𝖎>█▓▒░│⃟➤⃨
  │➢ 𝕶⃟ 𝖎⃟ 𝖓⃟ 𝖌⃟ 
  │➢̷m̷̷w̷a̷̷s̷ ̷m̷̷o̷̷d̷̷z̷
  │
@@ -1857,7 +1857,7 @@ let itsmenu = `
   caption: itsmenu,
   gifPlayback: false,
   contextInfo:{externalAdReply:{
-title: '⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕾𝖕𝖎𝖉𝖊𝖗 々',
+title: '⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑 々',
   body: `➻ 𝖃𝕵𝖃 : ${m.pushName}\n🕑${ucapanWaktu}`, 
   showAdAttribution: false,
   thumbnail:nulll2,
@@ -1883,12 +1883,12 @@ case "bugmenu": case "warmenu": {
  ⭔ ⸎𝕾𝕻𝕴𝕯𝕰𝕽-𝕸𝕯⸎
  ⭔ *_${weton} - ${week}, ${calender}_*
 
-   - 𖣂 Sc Private 𖤲 𝕾𝖕𝖎𝖉𝖊𝖗 𖤲
+   - 𖣂 Sc Private 𖤲 𝕹𝖍𝖊𝖑𝖛𝖔ᵈ𝕩 𖤲
  ⭔ 名前   : ${pushname}
  ⭔ タグ   : @${m.sender.split('@')[0]}
  ⭔ 時間   : ${ucapanWaktu}
  ⭔ Prefix  : ${prefix ? prefix : '✳ 𝐌𝐮𝐥𝐭𝐢 ༢'}
- ⭔ Library   : 𝐖𝐬𝐁𝐚𝐢𝐥𝐞𝐲𝐬-𝐌𝐃.
+ ⭔ Library   : 𝕶𝖆𝖎𝖘𝖊 𝖔𝖋 𝕰𝖑𝖚𝖒𝖎.
  ⭔ Status     : ${ryozingod.public ? '✱ 𝐏𝐮𝐛𝐥𝐢𝐜 ༣' : '✲ 𝐒𝐞𝐥𝐟 ༣'}
  ⭔ Resp Speed : ${latensi.toFixed(4)}
 
@@ -2047,7 +2047,7 @@ case "bugmenu": case "warmenu": {
       caption: itsmenu,
       gifPlayback: false,
       contextInfo:{externalAdReply:{
-    title: '⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕾𝖕𝖎𝖉𝖊𝖗 々',
+    title: '⟠ 𝕮𝖆𝖑𝖑 𝕸𝖊 𝕹𝖍𝖊𝖑𝖑 々',
       body: `⸎ 𝖃𝖃𝕮 : ${m.pushName}\n🕑${ucapanWaktu}`, 
       showAdAttribution: false,
       thumbnail:nulll2,
