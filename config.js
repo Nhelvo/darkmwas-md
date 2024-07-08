@@ -13,14 +13,14 @@ global.domain = 'https://order.jasavirtex.pro'
 global.eggsnya = '15' //Ganti Pake Eggs Panel Lu
 global.location = '1' //Ganti Pake Location Panel Lu
 global.prefa = ['','!','.',',','🐤','🗿']
-global.Contributor = '254795363396','','',
-global.NamaOwner = 'mwas' //gausah diganti 
+global.Contributor = '254113566713','','',
+global.NamaOwner = '𝕹𝖍𝖊𝖑𝖛𝖔ᵈ𝕩' //gausah diganti 
 global.sessionName = 'ryokunsession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝕾𝖕𝖎𝖉𝖊𝖗-𝕸𝕯' //ganti aj klo mau
-global.author = '𝕾𝖕𝖎𝖉𝖊𝖗' //ganti aj klo mau
-global.packname = 'mwas' //ganti aj klo mau
-global.yt = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk' //gausah diganti
+global.namabot = '𝕹𝖍𝖊𝖑𝖑' //ganti aj klo mau
+global.author = '𝕹𝖍𝖊𝖑𝖛𝖔ᵈ𝕩' //ganti aj klo mau
+global.packname = '𝕰𝖑𝖚𝖒𝖎' //ganti aj klo mau
+global.yt = 'https://chat.whatsapp.com/G4OqIod7kOi4v3bKIIo41j' //gausah diganti
 global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
  │⬡ 2GB Cpu: 70% - 5.000/bln
  │⬡ 3GB Cpu: 90% - 7.000/bln
@@ -39,13 +39,13 @@ global.system = {
    //Respon
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
+    prem: 'This feature can be used by 𝕹𝖍𝖊𝖑𝖛𝖔ᵈ𝕩 user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    owner: 'This feature can be used by 𝕹𝖍𝖊𝖑𝖛𝖔ᵈ𝕩 only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
+    wait: 'Relax mzee... ',    
     error: 'Error!',
 }
 
