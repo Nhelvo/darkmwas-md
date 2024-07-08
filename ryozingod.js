@@ -2,8 +2,8 @@
 > Kalo Mau Recode Kasih Credit gw ›
         TheZetsubXygen / Ryo
 
-📝| Created By thezetsuboxygen / Ryo
-🖥️| Base Ori By thezetsuboxygen / Ryo
+📝| Created By cennhelxvairo / Ryo
+🖥️| Base Ori By xvairsavior / Ryo
 
 
 */
