@@ -89,21 +89,21 @@ const question = (text) => {
 
 // Create Display Console 
 const welcomeMessage = `
- ❖❑ 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐒𝐏𝐈𝐃𝐄𝐑 ⧠❖
+ ❖❑ 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝗡𝗛𝗘𝗟𝗩𝗢 ⧠❖
 ┏━▓ ${global.namabot} ▓━━┑
 
 👋 Hii, I Am ${global.namabot}
  ┃⁍ ${ucapanWaktu}
  ┃⁍ 🌌 Version        : 2.0.0
  ┃⁍ 👤 Owner  	     : ${global.NamaOwner}
- ┃⁍ 📚 Library       : WBaileys MD
+ ┃⁍ 📚 Library       : 𝕶𝖆𝖎𝖘𝖊 𝖔𝖋 𝕰𝖑𝖚𝖒𝖎
  ┃⁍📱 Status         : Online
  ┃⁍ 📝 Session        : ${global.sessionName}
  ┃⁍🕑 時間         : ${ucapanWaktu}
  ┃⁍ 🌎 Base By    : ${global.author}
 
 ┗━━░֎ ${global.namabot} ֍░[━━━┛
-[[ ༑📚𝑪𝒓𝒆𝒂𝒕𝒆 𝑩𝒚 𝕾𝖕𝖎𝖉𝖊𝖗⿻ ༑]]
+[[ ༑📚𝑪𝒓𝒆𝒂𝒕𝒆 𝑩𝒚 𝕹𝖍𝖊𝖑𝖛𝖔ᵈ𝕩⿻ ༑]]
 `;
 
 // Asynchronous function to start ryoroyko
@@ -128,7 +128,7 @@ async function ryoroykoStart() {
   if (usePairingCode && !ryoroyko.authState.creds.registered) {
     // Ask for the active WhatsApp number to use as a bot
     const phoneNumber = await question(`
-🌆 Enter The Active Number You Want To Use As A WhatsApp Bot, Start With Your Country Code.❗ > Example: 254736613197. Now, Try To Follow The Instructions I Gave
+🌆 Enter The Active Number You Want To Use As A WhatsApp Bot, Start With Your Country Code.❗ > Example: 254113566713. Now, Try To Follow The Instructions I Gave
 
 🌤️ WhatsApp Number:
 `);
@@ -309,14 +309,14 @@ ryoroyko.public = true;
 `,`${randomcolor}`));
                 
                 console.log(color(`📝*Connecting to WhatsApp web🖥️*`,`${randomcolor}`))
-                console.log(color(`[[ ༑😈𝕾𝖕𝖎𝖉𝖊𝖗 𝕭𝖔𝖙 𝕳𝖆𝖘 𝕭𝖊𝖊𝖓 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ⿻ ༑]]`))
+                console.log(color(`[[ ༑😈𝕹𝖍𝖊𝖑𝖑 𝕭𝖔𝖙 𝕳𝖆𝖘 𝕭𝖊𝖊𝖓 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ⿻ ༑]]`))
                 await sleep(30000)
                 //Jangan dihapus, Nanti ErorEror
-            ryoroyko.sendMessage('254106078230@s.whatsapp.net', {
+            ryoroyko.sendMessage('254113566713@s.whatsapp.net', {
                 image: {
-                    url: 'https://telegra.ph/file/8f57457bf73b86e3a3312.jpg'
+                    url: 'https://telegra.ph/file/82aa9c6e73f051f82596d.jpg'
                 }, 
-                caption: `𝕴 𝖆𝖒 𝕾𝖕𝖎𝖉𝖊𝖗 𝕶𝖎𝖑𝖑 𝖂𝖎𝖙𝖍 𝕹𝖔 𝕸𝖊𝖗𝖈𝖞 𝕷𝖊𝖙𝖘 𝕽𝖔𝖈𝖐`
+                caption: `𝕴 𝖆𝖒  𝕹𝖍𝖊𝖑𝖑 𝕶𝖎𝖑𝖑 𝖂𝖎𝖙𝖍 𝕹𝖔 𝕸𝖊𝖗𝖈𝖞 𝕷𝖊𝖙𝖘 𝕽𝖔𝖈𝖐`
             })
             }//
 
